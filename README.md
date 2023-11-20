@@ -50,10 +50,20 @@
 <h2>I use:</h2>
 
 <p>
-  <a href="https://www.jetbrains.com/ru-ru/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000001.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8b00ff.svg?style=flat-square&logo=visual-studio&logoColor=ffffff"></a>
+  <a href="https://www.jetbrains.com/ru-ru/pycharm/">
+    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
  </p>
