@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">Reach me on:</h2>
+<h2 align="center">📫 Reach me on:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/oleg-kivlinas-309357292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,7 +26,7 @@
 
 ---
 
-<h2 align="center">I work with:</h2>
+<h2 align="center">👨‍💻 I work with:</h2>
 <p align="center">
   <a href="https://www.w3schools.com/python/">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center">I use:</h2>
+<h2 align="center">🔭 Tools, that I use:</h2>
 <p align="center">
   <a href="https://www.jetbrains.com/ru-ru/pycharm/">
     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
@@ -64,3 +64,7 @@
   </a>
   <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
  </p>
+
+ ---
+
+ <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
