@@ -11,9 +11,8 @@
 
 ---
 
-<h2>Connect with me:</h2>
-
-<div id="badges">
+<h2 align="center">Reach me on:</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/oleg-kivlinas-309357292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,13 +22,12 @@
   <a href="https://t.me/okivlinas">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
+</p>
 
 ---
 
-<h2>I work with:</h2>
-
-<p>
+<h2 align="center">I work with:</h2>
+<p align="center">
   <a href="https://www.w3schools.com/python/">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
@@ -47,9 +45,8 @@
 
 ---
 
-<h2>I use:</h2>
-
-<p>
+<h2 align="center">I use:</h2>
+<p align="center">
   <a href="https://www.jetbrains.com/ru-ru/pycharm/">
     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   </a>
