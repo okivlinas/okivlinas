@@ -28,6 +28,12 @@
 
 <h2 align="center">👨‍💻 I work with:</h2>
 <p align="center">
+  <a href="https://www.w3schools.com/javascript/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+  <a href="https://www.w3schools.com/nodejs/">
+    <img alt="Node.JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
   <a href="https://www.w3schools.com/python/">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
@@ -37,13 +43,6 @@
   <a href="https://www.w3schools.com/cpp/">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
-  <a href="https://www.w3schools.com/html/">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-
 </p>
 
 ---
