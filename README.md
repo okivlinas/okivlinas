@@ -28,7 +28,7 @@
 
 <h2 align="center">👨‍💻 I work with:</h2>
 <p align="center">
-  <a href="https://www.w3schools.com/javascript/">
+  <a href="https://www.w3schools.com/js/">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
   <a href="https://www.w3schools.com/nodejs/">
