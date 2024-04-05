@@ -28,12 +28,6 @@
 
 <h2 align="center">👨‍💻 I work with:</h2>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  </a>
-  <a href="https://www.typescriptlang.org/docs/">
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
   <a href="https://docs.python.org/3/">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
@@ -43,20 +37,26 @@
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16">
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
 </p>
 
 ---
 
 <h2 align="center">🔭 Tools, that I use:</h2>
 <p align="center">
+  <a href="https://www.jetbrains.com/ru-ru/pycharm/">
+    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  </a>
   <a href="https://code.visualstudio.com/">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
   <a href="https://www.jetbrains.com/ru-ru/webstorm/">
     <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-  </a>
-  <a href="https://www.jetbrains.com/ru-ru/pycharm/">
-    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   </a>
  </p>
 
