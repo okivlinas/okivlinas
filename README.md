@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/okivlinas" target="_blank">Oleg🥑</a> 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20science%20student;%20BelSTU;2nd%20course%204th%20group%20POIT&font=Fira%20Code&center=true&width=440&height=45&color=2336BCF7&vCenter=true&size=20"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Trainee%20Data%20Engineer;%20Innowise;&font=Fira%20Code&center=true&width=440&height=45&color=2336BCF7&vCenter=true&size=20"></a>
 </p>
 
 ---
