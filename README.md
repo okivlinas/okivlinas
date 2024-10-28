@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/okivlinas" target="_blank">Oleg</a> 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Data%20Engineer;%20Innowise%20Group;&font=Fira%20Code&center=true&width=440&height=45&color=2336BCF7&vCenter=true&size=20"></a>
-</p>
-
 ---
 
 <h2 align="center">📫 Reach me on:</h2>
