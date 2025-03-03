@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">📫 Reach me on:</h2>
+<h2 align="center">Reach me on:</h2>
 <p align="center">
   <a href="mailto:alehkivlinas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -19,4 +19,4 @@
 
 ---
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">Check Out My Repos</h2>
